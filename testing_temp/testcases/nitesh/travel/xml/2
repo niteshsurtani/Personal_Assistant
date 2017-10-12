@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>WAT</word>
+            <lemma>WAT</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>flights</word>
+            <lemma>flight</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>are</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>avail</word>
+            <lemma>avail</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>FEM</word>
+            <lemma>FEM</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>YD</word>
+            <lemma>YD</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>28</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>29</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>Delhi</word>
+            <lemma>Delhi</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>e</word>
+            <lemma>e</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>SYM</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP WAT) (NNS flights)) (VP (VBP are) (NP (NP (NP (NN avail) (NNP FEM) (NNP YD)) (PP (TO to) (NP (NNP Delhi)))) (X (SYM e)))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">YD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="2">flights</governor>
+            <dependent idx="1">WAT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">YD</governor>
+            <dependent idx="2">flights</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">YD</governor>
+            <dependent idx="3">are</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="4">avail</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="5">FEM</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Delhi</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="6">YD</governor>
+            <dependent idx="8">Delhi</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">YD</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">YD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="2">flights</governor>
+            <dependent idx="1">WAT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">YD</governor>
+            <dependent idx="2">flights</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">YD</governor>
+            <dependent idx="3">are</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="4">avail</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="5">FEM</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Delhi</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="6">YD</governor>
+            <dependent idx="8">Delhi</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">YD</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">YD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="2">flights</governor>
+            <dependent idx="1">WAT</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">YD</governor>
+            <dependent idx="2">flights</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="6">YD</governor>
+            <dependent idx="3">are</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="4">avail</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">YD</governor>
+            <dependent idx="5">FEM</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Delhi</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="6">YD</governor>
+            <dependent idx="8">Delhi</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">YD</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

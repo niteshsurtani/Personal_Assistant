@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Can</word>
+            <lemma>can</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>i</word>
+            <lemma>i</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>FW</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>get</word>
+            <lemma>get</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>lost</word>
+            <lemma>lose</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>flights</word>
+            <lemma>flight</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>hyd</word>
+            <lemma>hyd</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>delhi</word>
+            <lemma>delhi</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>their</word>
+            <lemma>they</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>weight</word>
+            <lemma>weight</lemma>
+            <CharacterOffsetBegin>57</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>allowances</word>
+            <lemma>allowance</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>?</word>
+            <lemma>?</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (SQ (MD Can) (NP (FW i)) (VP (VB get) (NP (NP (NP (DT a)) (VP (VBN lost) (PP (IN of) (NP (NP (NNS flights)) (PP (IN from) (NP (NN hyd))))) (S (VP (TO to) (VP (VB delhi)))))) (, ,) (CC and) (NP (PRP$ their) (NN weight) (NNS allowances)))) (. ?))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">get</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">get</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">get</governor>
+            <dependent idx="2">i</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">get</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="4">a</governor>
+            <dependent idx="5">lost</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">flights</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">lost</governor>
+            <dependent idx="7">flights</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">hyd</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="7">flights</governor>
+            <dependent idx="9">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">delhi</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">lost</governor>
+            <dependent idx="11">delhi</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">a</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="16">allowances</governor>
+            <dependent idx="14">their</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">allowances</governor>
+            <dependent idx="15">weight</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">a</governor>
+            <dependent idx="16">allowances</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">get</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">get</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">get</governor>
+            <dependent idx="2">i</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">get</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="4">a</governor>
+            <dependent idx="5">lost</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">flights</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">lost</governor>
+            <dependent idx="7">flights</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">hyd</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="7">flights</governor>
+            <dependent idx="9">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">delhi</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">lost</governor>
+            <dependent idx="11">delhi</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">a</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="16">allowances</governor>
+            <dependent idx="14">their</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">allowances</governor>
+            <dependent idx="15">weight</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">a</governor>
+            <dependent idx="16">allowances</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">get</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">get</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">get</governor>
+            <dependent idx="2">i</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">get</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="4">a</governor>
+            <dependent idx="5">lost</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">flights</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="5">lost</governor>
+            <dependent idx="7">flights</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="9">hyd</governor>
+            <dependent idx="8">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="7">flights</governor>
+            <dependent idx="9">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="11">delhi</governor>
+            <dependent idx="10">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="5">lost</governor>
+            <dependent idx="11">delhi</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">a</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="nmod:poss">
+            <governor idx="16">allowances</governor>
+            <dependent idx="14">their</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="16">allowances</governor>
+            <dependent idx="15">weight</dependent>
+          </dep>
+          <dep type="dobj" extra="true">
+            <governor idx="3">get</governor>
+            <dependent idx="16">allowances</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">a</governor>
+            <dependent idx="16">allowances</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>4</start>
+          <end>12</end>
+          <head>4</head>
+          <text>a lost of flights from hyd to delhi</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>14</start>
+          <end>15</end>
+          <head>14</head>
+          <text>their</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

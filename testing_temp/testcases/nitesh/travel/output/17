@@ -1,0 +1,5 @@
+source : Hyderabad
+destination : Bangalore
+start_date	range : {'max': u'XXXX-06-27', 'min': u'XXXX-06-23'},value : ,
+transport : flight
+transaction : book

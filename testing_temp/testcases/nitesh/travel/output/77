@@ -1,0 +1,11 @@
+round_trip : 1
+weight : 15.0
+end_date	range : ,value : XXXX-06-25,
+class : business
+destination : Bangalore
+number : 15.0
+seat : window
+amount	max : 10000.0,mean : 10000.0,min : 10000.0,
+organization : 1
+start_date	range : ,value : XXXX-06-21,
+transport : flight

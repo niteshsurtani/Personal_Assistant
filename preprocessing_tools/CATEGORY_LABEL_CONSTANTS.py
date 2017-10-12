@@ -1,0 +1,28 @@
+transactionMarker = "TRANSACTION"
+transportMarker = "TRANSPORT"
+
+cityMarker = "LOCATION"
+locationMarker = "LOCATION"
+sourceMarker = "SOURCE"
+destinationMarker = "DESTINATION"
+travelTypeMarker = "ROUND_TRIP"
+dateMarker = "DATE"
+startDateMarker = "START_DATE"
+endDateMarker = "END_DATE"
+numSeatMarker = "NUM_SEATS"
+classMarker = "TRAVEL_CLASS"
+
+numStopMarker = "NUM_STOPS"
+numResultMarker = "NUM_RESULTS"
+amountMarker = "PRICE_RANGE"
+durationMarker = "DURATION"
+timePreferenceMarker = "TIME_PREFERENCE"
+weightMarker = "EXTRA_LUGGAGE"
+mealMarker = "MEALS"
+wheelchairMarker = "WHEELCHAIR"
+organizationMarker = 'COMPANY_PREFERENCE'
+airforceMarker = "AIRFORCE_PERSONNEL"
+otherPreferenceMarker = "OTHER_PREFERENCE"
+
+trainQuotaMarker = "TRAIN_QUOTA"
+seatPreferenceMarker = "SEAT_PREFERENCE"

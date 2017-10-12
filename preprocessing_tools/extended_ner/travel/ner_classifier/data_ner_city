@@ -1,0 +1,2 @@
+[{1: {'lemma': u'new', 'NormalizedNER': u'0', 'word': u'new', 'POS': u'JJ', 'NER': u'0'}, 2: {'lemma': u'Delhi', 'NormalizedNER': u'0', 'word': u'Delhi', 'POS': u'NNP', 'NER': u'0'}, 3: {'lemma': u'to', 'NormalizedNER': u'0', 'word': u'to', 'POS': u'TO', 'NER': u'0'}, 4: {'lemma': u'Bangalore', 'NormalizedNER': u'0', 'word': u'Bangalore', 'POS': u'NNP', 'NER': u'0'}}]
+['DEL','BLR']

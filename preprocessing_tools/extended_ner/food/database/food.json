@@ -1,0 +1,267 @@
+
+{
+  "_comment": "This is a comment tag",
+  "food": {
+    "order": {
+        "mandatory": [
+          {
+            "attribute": "CITY",
+            "type": "CITY",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "DELIVERY_LOCALITY",
+            "type": "LOCALITY",
+            "dependency": {
+              "dependentOf": "CITY",
+              "dependentValue": 1,
+              "_comment": "1 means not null"
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "FOOD",
+            "type": "FOOD",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+          	"items" : [
+	            {
+		           	"valueKeys": {
+		              "name": "String",
+			            "weight":"Float",
+			            "volume":"Float",
+			            "quantity":"Float",
+			            "size":"String",
+			            "jj":"String"
+		            },
+		            "value": {
+			        	"name":"",
+			            "weight":"",
+			            "volume":"",
+			            "quantity":"1",
+			            "size":"",
+			            "jj":""
+		            }
+		        }
+            ]
+          }
+        ],
+        "optional": [
+          {
+            "attribute": "RESTAURANT_LOCALITY",
+            "type": "LOCALITY",
+            "dependency": {
+              "dependentOf": "CITY",
+              "dependentValue": 1,
+              "_comment": "1 means not null"
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "RESTAURANT_NAME",
+            "type": "RESTAURANT",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "restaurants" : [
+	            {
+		            "valueKeys": {
+		              "text": "String"
+		            },
+		            "value": {
+		              "text": null
+		            }
+		        }
+	        ]
+          },
+          {
+            "attribute": "CUISINE",
+            "type": "CUISINE",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "cuisines": [
+	            {
+		          	"valueKeys": {
+		              "text": "String"
+		            },
+		            "value": {
+		              "text": null
+		            }
+		        }
+	        ]
+          },
+          {
+            "attribute": "PAYMENT_MODE",
+            "type": "PAYMENT",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "PREFERENCE",
+            "type": "PREFERENCE",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "MEAL",
+            "type": "MEAL",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "DELIVERY_TIME",
+            "type": "DURATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+
+            "valueKeys": {
+              "exact" : "Time",
+              "range" : {
+              	"min": "Time",
+              	"max": "Time"
+              }
+            },
+            "value": {
+              "exact" : null,
+              "range" : {
+              	"min": null,
+              	"max": null
+              }
+            }
+          },
+          {
+            "attribute": "ORDER_TIME",
+            "type": "TIME",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "Time"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "BUDGET",
+            "type": "AMOUNT",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "exact" : "Amount",
+              "range" : {
+              	"min": "Amount",
+              	"max": "Amount"
+              }
+            },
+            "value": {
+              "exact" : null,
+              "range" : {
+              	"min": null,
+              	"max": null
+              }
+            }
+          },
+          {
+            "attribute": "MINIMUM_ORDER",
+            "type": "AMOUNT",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "exact" : "Amount",
+              "range" : {
+              	"min": "Amount",
+              	"max": "Amount"
+              }
+            },
+            "value": {
+              "exact" : null,
+              "range" : {
+              	"min": null,
+              	"max": null
+              }
+            }
+          },
+          {
+            "attribute": "DELIVERY_FEE",
+            "type": "AMOUNT",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "exact" : "Amount",
+              "range" : {
+              	"min": "Amount",
+              	"max": "Amount"
+              }
+            },
+            "value": {
+              "exact" : null,
+              "range" : {
+              	"min": null,
+              	"max": null
+              }
+            }
+          }
+        ]
+      },
+    "cancel": {},
+    "status": {}
+  }
+}

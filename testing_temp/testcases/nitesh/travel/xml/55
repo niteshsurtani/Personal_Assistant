@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>would</word>
+            <lemma>would</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>like</word>
+            <lemma>like</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>train</word>
+            <lemma>train</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>hyd</word>
+            <lemma>hyd</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>delhi</word>
+            <lemma>delhi</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-23</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06-23</Timex>
+          </token>
+          <token id="12">
+            <word>23rd</word>
+            <lemma>23rd</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-23</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06-23</Timex>
+          </token>
+          <token id="13">
+            <word>June</word>
+            <lemma>June</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-23</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06-23</Timex>
+          </token>
+          <token id="14">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>reruning</word>
+            <lemma>rerun</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>71</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>27th</word>
+            <lemma>27th</lemma>
+            <CharacterOffsetBegin>72</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-27</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">XXXX-06-27</Timex>
+          </token>
+          <token id="18">
+            <word>June</word>
+            <lemma>June</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>81</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-27</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">XXXX-06-27</Timex>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (PRP I)) (VP (MD would) (VP (VB like) (NP (DT a) (NN train)) (PP (IN from) (NP (NN hyd))) (S (VP (TO to) (VP (VB delhi) (PP (IN on) (NP (DT the) (JJ 23rd) (NNP June))))))))) (CC and) (S (VP (VBG reruning) (PP (IN on) (NP-TMP (JJ 27th) (NNP June))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">like</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">like</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">like</governor>
+            <dependent idx="2">would</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">train</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">like</governor>
+            <dependent idx="5">train</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">hyd</governor>
+            <dependent idx="6">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">like</governor>
+            <dependent idx="7">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="9">delhi</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">like</governor>
+            <dependent idx="9">delhi</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">June</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">June</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">23rd</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="9">delhi</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">like</governor>
+            <dependent idx="14">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="3">like</governor>
+            <dependent idx="15">reruning</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">June</governor>
+            <dependent idx="16">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">June</governor>
+            <dependent idx="17">27th</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="15">reruning</governor>
+            <dependent idx="18">June</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">like</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">like</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">like</governor>
+            <dependent idx="2">would</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">train</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">like</governor>
+            <dependent idx="5">train</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">hyd</governor>
+            <dependent idx="6">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="3">like</governor>
+            <dependent idx="7">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="9">delhi</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">like</governor>
+            <dependent idx="9">delhi</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">June</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">June</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">23rd</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="9">delhi</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">like</governor>
+            <dependent idx="14">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">like</governor>
+            <dependent idx="15">reruning</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">June</governor>
+            <dependent idx="16">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">June</governor>
+            <dependent idx="17">27th</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="15">reruning</governor>
+            <dependent idx="18">June</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">like</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">like</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="15">reruning</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">like</governor>
+            <dependent idx="2">would</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">train</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">like</governor>
+            <dependent idx="5">train</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="7">hyd</governor>
+            <dependent idx="6">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="3">like</governor>
+            <dependent idx="7">hyd</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="9">delhi</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="3">like</governor>
+            <dependent idx="9">delhi</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">June</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="13">June</governor>
+            <dependent idx="11">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">23rd</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="9">delhi</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="3">like</governor>
+            <dependent idx="14">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="3">like</governor>
+            <dependent idx="15">reruning</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">June</governor>
+            <dependent idx="16">on</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">June</governor>
+            <dependent idx="17">27th</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="15">reruning</governor>
+            <dependent idx="18">June</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>11</start>
+          <end>14</end>
+          <head>13</head>
+          <text>the 23rd June</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>17</start>
+          <end>19</end>
+          <head>18</head>
+          <text>27th June</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

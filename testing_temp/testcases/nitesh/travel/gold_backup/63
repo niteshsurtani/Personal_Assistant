@@ -1,0 +1,6 @@
+transport_type : bus
+transaction_type : book
+source : Delhi
+destination : Lucknow
+class : ac sleeper
+

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Cud</word>
+            <lemma>cud</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>U</word>
+            <lemma>U</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>Gov</word>
+            <lemma>Gov</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>me</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>D</word>
+            <lemma>d</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>details</word>
+            <lemma>detail</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>LEEK</word>
+            <lemma>LEEK</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>COST</word>
+            <lemma>COST</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>N</word>
+            <lemma>N</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>Timings</word>
+            <lemma>Timings</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>e</word>
+            <lemma>e</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>SYM</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (NP (NP (NN Cud)) (NP (NP (NNP U) (NNP Gov)) (NP (NP (PRP me)) (PP (NN D) (NP (NNS details) (NNP LEEK) (NNP COST) (NNP N) (NNP Timings))) (X (SYM e)))))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Cud</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Gov</governor>
+            <dependent idx="2">U</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Cud</governor>
+            <dependent idx="3">Gov</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">Gov</governor>
+            <dependent idx="4">me</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">Timings</governor>
+            <dependent idx="5">D</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="6">details</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="7">LEEK</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="8">COST</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="9">N</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">me</governor>
+            <dependent idx="10">Timings</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">me</governor>
+            <dependent idx="11">e</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Cud</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Gov</governor>
+            <dependent idx="2">U</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Cud</governor>
+            <dependent idx="3">Gov</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">Gov</governor>
+            <dependent idx="4">me</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">Timings</governor>
+            <dependent idx="5">D</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="6">details</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="7">LEEK</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="8">COST</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="9">N</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">me</governor>
+            <dependent idx="10">Timings</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">me</governor>
+            <dependent idx="11">e</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="1">Cud</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="3">Gov</governor>
+            <dependent idx="2">U</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="1">Cud</governor>
+            <dependent idx="3">Gov</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">Gov</governor>
+            <dependent idx="4">me</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="10">Timings</governor>
+            <dependent idx="5">D</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="6">details</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="7">LEEK</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="8">COST</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Timings</governor>
+            <dependent idx="9">N</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">me</governor>
+            <dependent idx="10">Timings</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">me</governor>
+            <dependent idx="11">e</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

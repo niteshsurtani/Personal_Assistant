@@ -1,0 +1,80 @@
+I want to cancel a ticket
+[   (   u'Which terminal will my flight operate from at Delhi  /  Mumbai airport ?',
+        0.0),
+    (   u'What are the benefits of becoming a registered member of MakeMyTrip ?',
+        0.018066534285877154),
+    (u'How do I check if my flight is on time or not ?', 0.23230246631206952),
+    (   u'I have booked my tickets online .  How can I get another copy of my E-Ticket ?',
+        0.26846553048951954),
+    (   u'How do I get a refund for tickets that I have directly cancelled with airlines ?',
+        0.31295211166466624),
+    (   u'How do I become a registered member of MakeMyTrip ?',
+        0.34008809358010894),
+    (   u'What documents do I need to carry to check-in for my flight ?',
+        0.42751735615365904),
+    (u'How can I change the date of my flight booking ?', 0.9325089190075396),
+    (   u'What are the cancellation charges applicable on cancelling a train ticket ?',
+        1.1973120281890295),
+    (u'How can I cancel my flight tickets ?', 4.588134832338056)]
+
+
+I want to book a flight
+[   (   u'What are the cancellation charges applicable on cancelling a train ticket ?',
+        0.008531259398366069),
+    (   u'What are the benefits of becoming a registered member of MakeMyTrip ?',
+        0.018066534285877154),
+    (   u'How do I get a refund for tickets that I have directly cancelled with airlines ?',
+        0.26670270807051943),
+    (   u'I have booked my tickets online .  How can I get another copy of my E-Ticket ?',
+        0.26846553048951954),
+    (   u'How do I become a registered member of MakeMyTrip ?',
+        0.34008809358010894),
+    (   u'Which terminal will my flight operate from at Delhi  /  Mumbai airport ?',
+        0.6076790412519156),
+    (u'How can I cancel my flight tickets ?', 0.7704458147701615),
+    (   u'What documents do I need to carry to check-in for my flight ?',
+        0.8019021242203617),
+    (u'How can I change the date of my flight booking ?', 0.9725464316285193),
+    (u'How do I check if my flight is on time or not ?', 1.1962314867844528)]
+
+
+What documents should I carry
+[   (   u'Which terminal will my flight operate from at Delhi  /  Mumbai airport ?',
+        0.0),
+    (   u'What are the cancellation charges applicable on cancelling a train ticket ?',
+        0.09520546719056586),
+    (u'How can I change the date of my flight booking ?', 0.1826216459957643),
+    (u'How can I cancel my flight tickets ?', 0.21231959293827424),
+    (   u'What are the benefits of becoming a registered member of MakeMyTrip ?',
+        0.22861031689970787),
+    (u'How do I check if my flight is on time or not ?', 0.2999011944365183),
+    (   u'How do I get a refund for tickets that I have directly cancelled with airlines ?',
+        0.3026561131127693),
+    (   u'I have booked my tickets online .  How can I get another copy of my E-Ticket ?',
+        0.33021113884346515),
+    (   u'How do I become a registered member of MakeMyTrip ?',
+        0.4158264441513538),
+    (   u'What documents do I need to carry to check-in for my flight ?',
+        0.9245255915349632)]
+
+
+Should I bring my credit card
+[   (   u'What are the cancellation charges applicable on cancelling a train ticket ?',
+        0.0),
+    (   u'What are the benefits of becoming a registered member of MakeMyTrip ?',
+        0.0),
+    (   u'Which terminal will my flight operate from at Delhi  /  Mumbai airport ?',
+        0.026791512848043965),
+    (u'How can I change the date of my flight booking ?', 0.1804402689588108),
+    (u'How can I cancel my flight tickets ?', 0.21036102814884722),
+    (   u'How do I get a refund for tickets that I have directly cancelled with airlines ?',
+        0.26210788256631473),
+    (u'How do I check if my flight is on time or not ?', 0.29631893793383657),
+    (   u'I have booked my tickets online .  How can I get another copy of my E-Ticket ?',
+        0.32626683644879656),
+    (   u'How do I become a registered member of MakeMyTrip ?',
+        0.3601162642004235),
+    (   u'What documents do I need to carry to check-in for my flight ?',
+        0.42050391024054845)]
+
+

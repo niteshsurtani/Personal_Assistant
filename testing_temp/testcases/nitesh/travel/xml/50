@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>nerd</word>
+            <lemma>nerd</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>flight</word>
+            <lemma>flight</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>mumbai</word>
+            <lemma>mumbaus</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>hyd</word>
+            <lemma>hyd</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>preferably</word>
+            <lemma>preferably</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>Jet</word>
+            <lemma>Jet</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>Airways</word>
+            <lemma>Airways</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>ORGANIZATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>zero</word>
+            <lemma>zero</lemma>
+            <CharacterOffsetBegin>64</CharacterOffsetBegin>
+            <CharacterOffsetEnd>68</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>0.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>stops</word>
+            <lemma>stop</lemma>
+            <CharacterOffsetBegin>69</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBD nerd) (NP (DT a) (NN flight)) (PP (IN from) (NP (NP (NP (NNS mumbai)) (PP (TO to) (NP (NN hyd)))) (, ,) (RB preferably) (NP (NNP Jet) (NNPS Airways)))) (PP (IN with) (NP (CD zero) (NNS stops)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">nerd</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flight</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="4">flight</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="5">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="2">nerd</governor>
+            <dependent idx="6">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="10">preferably</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">Airways</governor>
+            <dependent idx="11">Jet</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="12">Airways</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">stops</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="15">stops</governor>
+            <dependent idx="14">zero</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="2">nerd</governor>
+            <dependent idx="15">stops</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">nerd</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flight</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="4">flight</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="5">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="2">nerd</governor>
+            <dependent idx="6">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="10">preferably</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">Airways</governor>
+            <dependent idx="11">Jet</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="12">Airways</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">stops</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="15">stops</governor>
+            <dependent idx="14">zero</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="2">nerd</governor>
+            <dependent idx="15">stops</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">nerd</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">flight</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">nerd</governor>
+            <dependent idx="4">flight</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="5">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="2">nerd</governor>
+            <dependent idx="6">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="10">preferably</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="12">Airways</governor>
+            <dependent idx="11">Jet</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">mumbai</governor>
+            <dependent idx="12">Airways</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">stops</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="15">stops</governor>
+            <dependent idx="14">zero</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="2">nerd</governor>
+            <dependent idx="15">stops</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>11</start>
+          <end>13</end>
+          <head>12</head>
+          <text>Jet Airways</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>6</start>
+          <end>9</end>
+          <head>6</head>
+          <text>mumbai to hyd</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

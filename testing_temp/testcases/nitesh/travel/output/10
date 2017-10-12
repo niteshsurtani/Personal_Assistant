@@ -1,0 +1,8 @@
+source : Hyderabad
+destination : Bangalore
+<<<<<<< HEAD
+round_trip : 1
+start_date	range : ,value : XXXX-06-21,
+end_date	range : ,value : XXXX-06-27,
+=======
+>>>>>>> 66583c9acaa04f1cadebc8eb95809f1d331b035c

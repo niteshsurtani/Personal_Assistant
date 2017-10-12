@@ -1,0 +1,5 @@
+transport_type : train
+transaction_type : book
+destination : Hyderabad
+time : T11:00
+

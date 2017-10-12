@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>want</word>
+            <lemma>want</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>order</word>
+            <lemma>order</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>large</word>
+            <lemma>large</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>Domino</word>
+            <lemma>Domino</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>Pizza</word>
+            <lemma>Pizza</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>e</word>
+            <lemma>e</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>SYM</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>500ml</word>
+            <lemma>500ml</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>500.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>coke</word>
+            <lemma>coke</lemma>
+            <CharacterOffsetBegin>47</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>garlic</word>
+            <lemma>garlic</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>bread</word>
+            <lemma>bread</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>cheese</word>
+            <lemma>cheese</lemma>
+            <CharacterOffsetBegin>76</CharacterOffsetBegin>
+            <CharacterOffsetEnd>82</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>dip</word>
+            <lemma>dip</lemma>
+            <CharacterOffsetBegin>83</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>88</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB order) (NP (NP (ADJP (CD 1) (JJ large)) (NNP Domino) (NNP Pizza)) (X (X (SYM e)) (NP (NP (CD 1) (CD 500ml) (NN coke)) (CC and) (NP (DT a) (JJ garlic) (NN bread))))) (PP (IN with) (NP (NN cheese) (NN dip))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">order</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">order</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">large</governor>
+            <dependent idx="5">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="6">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="7">Domino</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">order</governor>
+            <dependent idx="8">Pizza</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">coke</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="10">1</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="11">500ml</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="12">coke</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">coke</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bread</governor>
+            <dependent idx="14">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">bread</governor>
+            <dependent idx="15">garlic</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">coke</governor>
+            <dependent idx="16">bread</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">dip</governor>
+            <dependent idx="17">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">dip</governor>
+            <dependent idx="18">cheese</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">order</governor>
+            <dependent idx="19">dip</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">order</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">order</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">large</governor>
+            <dependent idx="5">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="6">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="7">Domino</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">order</governor>
+            <dependent idx="8">Pizza</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">coke</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="10">1</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="11">500ml</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="12">coke</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">coke</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bread</governor>
+            <dependent idx="14">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">bread</governor>
+            <dependent idx="15">garlic</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">coke</governor>
+            <dependent idx="16">bread</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">dip</governor>
+            <dependent idx="17">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">dip</governor>
+            <dependent idx="18">cheese</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">order</governor>
+            <dependent idx="19">dip</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">order</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">order</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">large</governor>
+            <dependent idx="5">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="6">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="7">Domino</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">order</governor>
+            <dependent idx="8">Pizza</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="12">coke</governor>
+            <dependent idx="9">e</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="10">1</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="12">coke</governor>
+            <dependent idx="11">500ml</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="12">coke</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">coke</governor>
+            <dependent idx="13">and</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">bread</governor>
+            <dependent idx="14">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="16">bread</governor>
+            <dependent idx="15">garlic</dependent>
+          </dep>
+          <dep type="dep" extra="true">
+            <governor idx="8">Pizza</governor>
+            <dependent idx="16">bread</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="12">coke</governor>
+            <dependent idx="16">bread</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="19">dip</governor>
+            <dependent idx="17">with</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="19">dip</governor>
+            <dependent idx="18">cheese</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">order</governor>
+            <dependent idx="19">dip</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,48 @@
+import os
+import NER_DOM_Parser
+from preprocessing_tools.CATEGORY_LABEL_CONSTANTS import *
+
+def identifyNER(inputFile,outputFile,PWD,CORENLP_DIRECTORY,CORENLP_TOOL_DIRECTORY,config,query):
+	
+   	target = open(inputFile, 'w')
+	target.write("%s\n" %query)
+	target.close()
+
+	corenlpCommand = "java -cp '*' -Xmx2g edu.stanford.nlp.pipeline.StanfordCoreNLP [ props" + config + "] -file "+ inputFile + " -outputDirectory " + CORENLP_DIRECTORY
+
+	os.chdir(CORENLP_TOOL_DIRECTORY)
+	os.system(corenlpCommand)
+	os.chdir(CORENLP_DIRECTORY)
+	analyzedQuery,chunkedParse = XmlToDict(outputFile)
+	
+#	ner_list = extractNER(outputFile)
+	os.chdir(PWD)
+	return analyzedQuery, chunkedParse
+
+def XmlToDict(xmlfile):
+	elementsDict, chunkedParse = NER_DOM_Parser.convertXMLToDict(xmlfile)
+	return elementsDict, chunkedParse
+
+
+def extractNER(xmlfile):
+	ner = {}
+
+	extractLocations(xmlfile,ner)	
+	extractDates(xmlfile,ner)	
+	return ner
+
+def extractLocations(file,ner):
+	
+	allLocations = NER_DOM_Parser.Main(file,"AllLocations")
+	# Returns 'key = token_range' and 'value = location'
+	for key, value in allLocations.iteritems():
+		ner[value] = locationMarker
+	return ner
+
+def extractDates(file,ner):
+	
+	allDates = NER_DOM_Parser.Main(file,"AllDates")
+	
+	for key, value in allDates.iteritems():
+		ner[value] = dateMarker
+	return ner

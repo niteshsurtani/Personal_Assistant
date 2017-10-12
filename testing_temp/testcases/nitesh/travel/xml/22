@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>want</word>
+            <lemma>want</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>book</word>
+            <lemma>book</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>flight</word>
+            <lemma>flight</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>leaving</word>
+            <lemma>leave</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>23rd</word>
+            <lemma>23rd</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>36</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-23</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06-23</Timex>
+          </token>
+          <token id="9">
+            <word>June</word>
+            <lemma>June</lemma>
+            <CharacterOffsetBegin>37</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-23</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06-23</Timex>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>returning</word>
+            <lemma>return</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>27th</word>
+            <lemma>27th</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-27</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">XXXX-06-27</Timex>
+          </token>
+          <token id="13">
+            <word>June</word>
+            <lemma>June</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06-27</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t2" type="DATE">XXXX-06-27</Timex>
+          </token>
+          <token id="14">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>Hyderabad</word>
+            <lemma>Hyderabad</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>Bangalore</word>
+            <lemma>Bangalore</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>93</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>93</CharacterOffsetBegin>
+            <CharacterOffsetEnd>94</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB book) (NP (NP (DT a) (NN flight)) (VP (VP (VBG leaving) (NP-TMP (JJ 23rd) (NNP June))) (CC and) (VP (VBG returning) (NP-TMP (JJ 27th) (NNP June))))) (PP (IN from) (NP (NNP Hyderabad))) (PP (TO to) (NP (NNP Bangalore))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">book</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">flight</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">book</governor>
+            <dependent idx="6">flight</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">flight</governor>
+            <dependent idx="7">leaving</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">June</governor>
+            <dependent idx="8">23rd</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="7">leaving</governor>
+            <dependent idx="9">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="7">leaving</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="7">leaving</governor>
+            <dependent idx="11">returning</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">27th</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="11">returning</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">Hyderabad</governor>
+            <dependent idx="14">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">book</governor>
+            <dependent idx="15">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">Bangalore</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">book</governor>
+            <dependent idx="17">Bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">book</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">flight</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">book</governor>
+            <dependent idx="6">flight</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">flight</governor>
+            <dependent idx="7">leaving</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">June</governor>
+            <dependent idx="8">23rd</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="7">leaving</governor>
+            <dependent idx="9">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="7">leaving</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="7">leaving</governor>
+            <dependent idx="11">returning</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">27th</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="11">returning</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">Hyderabad</governor>
+            <dependent idx="14">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="4">book</governor>
+            <dependent idx="15">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">Bangalore</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="4">book</governor>
+            <dependent idx="17">Bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">book</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">flight</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">book</governor>
+            <dependent idx="6">flight</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">flight</governor>
+            <dependent idx="7">leaving</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="9">June</governor>
+            <dependent idx="8">23rd</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="7">leaving</governor>
+            <dependent idx="9">June</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="7">leaving</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="dep" extra="true">
+            <governor idx="6">flight</governor>
+            <dependent idx="11">returning</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="7">leaving</governor>
+            <dependent idx="11">returning</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="13">June</governor>
+            <dependent idx="12">27th</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="11">returning</governor>
+            <dependent idx="13">June</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="15">Hyderabad</governor>
+            <dependent idx="14">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="4">book</governor>
+            <dependent idx="15">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="17">Bangalore</governor>
+            <dependent idx="16">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="4">book</governor>
+            <dependent idx="17">Bangalore</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>8</start>
+          <end>10</end>
+          <head>9</head>
+          <text>23rd June</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>12</start>
+          <end>14</end>
+          <head>13</head>
+          <text>27th June</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

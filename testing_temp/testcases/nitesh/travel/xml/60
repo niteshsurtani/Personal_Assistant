@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>need</word>
+            <lemma>need</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>train</word>
+            <lemma>train</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>reaching</word>
+            <lemma>reach</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>23</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>hyderabad</word>
+            <lemma>hyderabad</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>around</word>
+            <lemma>around</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>11</word>
+            <lemma>11</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>TIME</NER>
+            <NormalizedNER>T11:00</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="TIME">T11:00</Timex>
+          </token>
+          <token id="9">
+            <word>am</word>
+            <lemma>am</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>46</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>TIME</NER>
+            <NormalizedNER>T11:00</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="TIME">T11:00</Timex>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP need) (S (NP (DT a) (NN train)) (VP (VBG reaching) (NP (NN hyderabad)) (PP (IN around) (NP (CD 11) (RB am)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">train</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="4">train</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">need</governor>
+            <dependent idx="5">reaching</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="6">hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">11</governor>
+            <dependent idx="7">around</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="5">reaching</governor>
+            <dependent idx="8">11</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">11</governor>
+            <dependent idx="9">am</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">train</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="4">train</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">need</governor>
+            <dependent idx="5">reaching</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="6">hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">11</governor>
+            <dependent idx="7">around</dependent>
+          </dep>
+          <dep type="nmod:around">
+            <governor idx="5">reaching</governor>
+            <dependent idx="8">11</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">11</governor>
+            <dependent idx="9">am</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">train</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="4">train</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="2">need</governor>
+            <dependent idx="5">reaching</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">reaching</governor>
+            <dependent idx="6">hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">11</governor>
+            <dependent idx="7">around</dependent>
+          </dep>
+          <dep type="nmod:around">
+            <governor idx="5">reaching</governor>
+            <dependent idx="8">11</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">11</governor>
+            <dependent idx="9">am</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

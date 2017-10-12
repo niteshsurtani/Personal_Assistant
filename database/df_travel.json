@@ -1,0 +1,604 @@
+{
+  "travel": {
+    "book": {
+      "bus": {
+        "mandatory": [
+          {
+            "attribute": "SOURCE",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "DESTINATION",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_TYPE",
+            "type": "BOOLEAN",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "DEPARTURE_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "ARRIVAL_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": "TRAVEL_TYPE",
+              "dependentValue": 1
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "NUM_SEATS",
+            "type": "NUMBER",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "adult": "Integer",
+              "child": "Integer",
+              "infant": "Integer"
+            },
+            "value": {
+              "adult": null,
+              "child": null,
+              "infant": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_CLASS",
+            "type": "CLASS",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          }
+        ],
+        "optional": [
+          {
+            "attribute": "NUM_STOPS",
+            "type": "NUMBER",
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "PRICE_RANGE",
+            "type": "AMOUNT",
+            "valueKeys": {
+              "minPrice": "String",
+              "meanPrice": "String",
+              "maxPrice": "String"
+            },
+            "value": {
+              "minPrice": null,
+              "meanPrice": null,
+              "maxPrice": null
+            }
+          },
+          {
+            "attribute": "DURATION",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "TIME_PREFERENCE",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "COMPANY_PREFERENCE",
+            "type": "ORGANIZATION",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "SEAT_PREFERENCE",
+            "type": "CLASS",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          }
+        ]
+      },
+      "train": {
+        "mandatory": [
+          {
+            "attribute": "SOURCE",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "DESTINATION",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_TYPE",
+            "type": "BOOLEAN",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "DEPARTURE_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "ARRIVAL_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": "TRAVEL_TYPE",
+              "dependentValue": 1
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "NUM_SEATS",
+            "type": "NUMBER",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "adult": "Integer",
+              "child": "Integer",
+              "infant": "Integer"
+            },
+            "value": {
+              "adult": null,
+              "child": null,
+              "infant": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_CLASS",
+            "type": "CLASS",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          }
+        ],
+        "optional": [
+          {
+            "attribute": "PRICE_RANGE",
+            "type": "AMOUNT",
+            "valueKeys": {
+              "minPrice": "String",
+              "meanPrice": "String",
+              "maxPrice": "String"
+            },
+            "value": {
+              "minPrice": null,
+              "meanPrice": null,
+              "maxPrice": null
+            }
+          },
+          {
+            "attribute": "DURATION",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "TIME_PREFERENCE",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "SEAT_PREFERENCE",
+            "type": "CLASS",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "TRAIN_PREFERENCE",
+            "type": "ORGANIZATION",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "QUOTA",
+            "type": "TRAIN_QUOTA",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          }
+        ]
+      },
+      "flight": {
+        "mandatory": [
+          {
+            "attribute": "SOURCE",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "DESTINATION",
+            "type": "LOCATION",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_TYPE",
+            "type": "BOOLEAN",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "DEPARTURE_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "ARRIVAL_DATE",
+            "type": "DATE",
+            "dependency": {
+              "dependentOf": "TRAVEL_TYPE",
+              "dependentValue": 1
+            },
+            "valueKeys": {
+              "minDate": "Date",
+              "meanDate": "Date",
+              "maxDate": "Date"
+            },
+            "value": {
+              "minDate": null,
+              "meanDate": null,
+              "maxDate": null
+            }
+          },
+          {
+            "attribute": "NUM_SEATS",
+            "type": "NUMBER",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "adult": "Integer",
+              "child": "Integer",
+              "infant": "Integer"
+            },
+            "value": {
+              "adult": null,
+              "child": null,
+              "infant": null
+            }
+          },
+          {
+            "attribute": "TRAVEL_CLASS",
+            "type": "CLASS",
+            "dependency": {
+              "dependentOf": null,
+              "dependentValue": null
+            },
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": "Economy"
+            }
+          }
+        ],
+        "optional": [
+          {
+            "attribute": "NUM_STOPS",
+            "type": "NUMBER",
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "PRICE_RANGE",
+            "type": "AMOUNT",
+            "valueKeys": {
+              "minPrice": "String",
+              "meanPrice": "String",
+              "maxPrice": "String"
+            },
+            "value": {
+              "minPrice": null,
+              "meanPrice": null,
+              "maxPrice": null
+            }
+          },
+          {
+            "attribute": "DURATION",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "TIME_PREFERENCE",
+            "type": "TIME",
+            "valueKeys": {
+              "minTime": "Time",
+              "meanTime": "Time",
+              "maxTime": "Time"
+            },
+            "value": {
+              "minTime": null,
+              "meanTime": null,
+              "maxTime": null
+            }
+          },
+          {
+            "attribute": "EXTRA_LUGGAGE",
+            "type": "WEIGHT",
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "MEALS",
+            "type": "BOOLEAN",
+            "valueKeys": {
+              "selected": "Integer",
+              "vegetarian": "Integer"
+            },
+            "value": {
+              "selected": 0,
+              "vegetarian": 0
+            }
+          },
+          {
+            "attribute": "WHEELCHAIR",
+            "type": "NUMBER",
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          },
+          {
+            "attribute": "COMPANY_PREFERENCE",
+            "type": "ORGANIZATION",
+            "valueKeys": {
+              "text": "String"
+            },
+            "value": {
+              "text": null
+            }
+          },
+          {
+            "attribute": "AIRFORCE_PERSONNEL",
+            "type": "NUMBER",
+            "valueKeys": {
+              "num": "Integer"
+            },
+            "value": {
+              "num": null
+            }
+          }
+        ]
+      }
+    },
+    "cancel": {},
+    "status": {}
+  }
+}

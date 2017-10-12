@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>want</word>
+            <lemma>want</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>travel</word>
+            <lemma>travel</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>10</word>
+            <lemma>10</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>10.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>Kg</word>
+            <lemma>kg</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>luggage</word>
+            <lemma>luggage</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>2</word>
+            <lemma>2</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>booked</word>
+            <lemma>book</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>seats</word>
+            <lemma>seat</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>56</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB travel) (PP (IN with) (NP (CD 10) (NN Kg) (NN luggage))) (PP (IN with) (NP (NP (CD 2)) (VP (VBN booked) (NP (NNS seats))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">travel</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">travel</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">luggage</governor>
+            <dependent idx="5">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="8">luggage</governor>
+            <dependent idx="6">10</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">luggage</governor>
+            <dependent idx="7">Kg</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">travel</governor>
+            <dependent idx="8">luggage</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">2</governor>
+            <dependent idx="9">with</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">travel</governor>
+            <dependent idx="10">2</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="10">2</governor>
+            <dependent idx="11">booked</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">booked</governor>
+            <dependent idx="12">seats</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">travel</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">travel</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">luggage</governor>
+            <dependent idx="5">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="8">luggage</governor>
+            <dependent idx="6">10</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">luggage</governor>
+            <dependent idx="7">Kg</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">travel</governor>
+            <dependent idx="8">luggage</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">2</governor>
+            <dependent idx="9">with</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">travel</governor>
+            <dependent idx="10">2</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="10">2</governor>
+            <dependent idx="11">booked</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">booked</governor>
+            <dependent idx="12">seats</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">travel</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">want</governor>
+            <dependent idx="4">travel</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">luggage</governor>
+            <dependent idx="5">with</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="8">luggage</governor>
+            <dependent idx="6">10</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="8">luggage</governor>
+            <dependent idx="7">Kg</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">travel</governor>
+            <dependent idx="8">luggage</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">2</governor>
+            <dependent idx="9">with</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">travel</governor>
+            <dependent idx="10">2</dependent>
+          </dep>
+          <dep type="acl">
+            <governor idx="10">2</governor>
+            <dependent idx="11">booked</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">booked</governor>
+            <dependent idx="12">seats</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,3 @@
+transaction_type : book
+num_seats : 2.0
+weight : max :10 kg,mean : 10 kg ,min : 10 kg,

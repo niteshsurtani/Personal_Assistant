@@ -1,0 +1,4 @@
+transport_type : train
+transaction_type : book
+num_seats : 3.0
+class : 3 ac

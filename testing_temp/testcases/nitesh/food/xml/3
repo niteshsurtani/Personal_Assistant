@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Want</word>
+            <lemma>want</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>large</word>
+            <lemma>large</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>Domino</word>
+            <lemma>Domino</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>Pizza</word>
+            <lemma>Pizza</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>1</word>
+            <lemma>1</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>1.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>medium</word>
+            <lemma>medium</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>size</word>
+            <lemma>size</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>45</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>pizza</word>
+            <lemma>pizza</lemma>
+            <CharacterOffsetBegin>46</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBD Want) (S (NP (CD 1) (JJ large) (NNP Domino) (NNP Pizza) (CC and) (CD 1) (NN medium) (NN size)) (NP (NN pizza)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="3">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="4">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="5">Domino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">pizza</governor>
+            <dependent idx="6">Pizza</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="10">size</governor>
+            <dependent idx="8">1</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">size</governor>
+            <dependent idx="9">medium</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="10">size</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">Want</governor>
+            <dependent idx="11">pizza</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="3">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="4">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="5">Domino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">pizza</governor>
+            <dependent idx="6">Pizza</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="10">size</governor>
+            <dependent idx="8">1</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">size</governor>
+            <dependent idx="9">medium</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="10">size</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">Want</governor>
+            <dependent idx="11">pizza</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Want</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Want</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="3">1</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="4">large</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="5">Domino</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">pizza</governor>
+            <dependent idx="6">Pizza</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="10">size</governor>
+            <dependent idx="8">1</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">size</governor>
+            <dependent idx="9">medium</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="6">Pizza</governor>
+            <dependent idx="10">size</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="11">pizza</governor>
+            <dependent idx="10">size</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">Want</governor>
+            <dependent idx="11">pizza</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+    <coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>1</sentence>
+          <start>3</start>
+          <end>4</end>
+          <head>3</head>
+          <text>1</text>
+        </mention>
+        <mention>
+          <sentence>1</sentence>
+          <start>8</start>
+          <end>9</end>
+          <head>8</head>
+          <text>1</text>
+        </mention>
+      </coreference>
+    </coreference>
+  </document>
+</root>

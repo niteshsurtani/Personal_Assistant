@@ -1,0 +1,109 @@
+# Spell Checker Specific
+1	1	I wnt tu buk a tikket frm hyderabad ot bangalore.
+2	wat flights are avail frm hyd to delhi?
+3	cud u giv me d details lik cost n timings?
+
+# Truecase Specific
+4	I want to book a ticket from hyderabad to bangalore between 23rd jun and 25th jul.
+
+# Location
+5	I want a flight from Bangalore on 23rd June and return to Hyderabad.
+6	I want to leave for Hyderabad on the 20th June and return to bangalore on 23rd June
+7	What are the trains leaving from mumbai and reaching delhi?
+8	I need a reservation, starting point is Hyd and destination is bangalore.
+9	I want to go to Bangalore this weekend.
+10	I want to reach Bangalore on 27th June and leave Hyderabad on 21st June.
+11	My source is Hyderabad and my destination is Bangalore.
+12	Source: Hyderabad; Destination: Bangalore
+13	Hyderabad, Bangalore
+14	My source is Hyderabad and I am going to Bangalore.
+
+# Date Specific
+15	I want to book a flight on 23rd June from Hyderabad to Bangalore.
+16	I want to book a flight between 23rd June and 27th June from Hyderabad to Bangalore.
+17	I want to book a flight between 27th June and  23rd June from Hyderabad to Bangalore.
+18	I want to book a flight leaving on 23rd June and returning on 27th June from Hyderabad to Bangalore.
+19	I want to book a flight leaving between 23rd June and 27th June and returning on 30th June from Hyderabad to Bangalore.
+20	I want to book a flight leaving on 20th June and returning between 23rd June and 27th June from Hyderabad to Bangalore.
+21	I want to book a flight leaving between 10th June to 15th June and returning between 23rd June and 27th June from Hyderabad to Bangalore.
+22	I want to book a flight leaving 23rd June and returning 27th June from Hyderabad to Bangalore.
+23	I will be leaving on 23rd and returning back on 2nd.
+24	I want to book a flight from Hyderabad to Bangalore leaving this Saturday.
+25	I want to book a flight from Hyderabad to Bangalore leaving on 23rd of this month.
+26	I want to book a flight from Hyderabad to Bangalore leaving on 25th of Jun.
+27	I want to book a flight from Hyderabad to Bangalore during next week.
+28	I want to book a flight from Hyderabad to Bangalore on 27th June.
+29	I want to book a flight from Hyderabad to Bangalore returning on 27th June.
+
+# Class
+30	3	I want to book a 2AC ticket.
+31	Can I get three confirmed tickets in 3-tier AC?
+32	Can I get three confirmed tickets in AC first tier?
+33	I want to book a ticket between Rs 10,000 and Rs. 15000 from hyderabad to bangalore in 1AC.
+34	Can I get three confirmed tickets in semi-sleeper bus?
+35	What is the best bus to take, from delhi to lucknow, with minimum night time travel and AC sleeper?
+
+# Weight
+36	I want a flight with weight allowance between 10-15 kg and price range below rs 10000.
+37	Can i get a lost of flights from hyd to delhi, and their weight allowances?
+
+# Amount
+38	I want to book a ticket between Rs 10,000 and Rs. 15000 from hyderabad to bangalore in 1AC.
+39	Is it possible to get a flight  below 5K ?
+40	I want to book a ticket from hyderabad to london within 100 dollars.
+41	Is it possible to get a flight  below 5K ?
+
+
+# Train Quota
+42	Can I book a tatkal ticket from Hyderabad to Bangalore, in 2AC?
+
+# Seat Preference
+43	I would prefer a window seat from Hyderabad to Bangalore.
+44	Would it be possible to book me a upper berth?
+45	A lower berth would be prefered
+
+# Num Seats
+46	Can I get three confirmed tickets in semi-sleeper bus?
+47	How much will 3 tatkaal tickets cost?
+
+# Num Stops
+48	Can you please suggest some flights, between Jaipur and hyd with minimumm number of stops?
+49	I need to fly to Dubai from hyd, with a stop at mumbai on the 23 rd of june.
+50	I nerd a flight from mumbai to hyd, preferably Jet Airways with zero stops.
+51	I need a flight from mumbai to hyd with maximum of 2 stops.
+
+# Return trip
+52	I need 2 two-way tickets from hyd to bangalore, preferably not Air India.
+53	Can you please book me a round trip from delhi to agra, leaving on 23rd june and returning on 25th june?
+54	I want to go from mumbai to kolkata, leaving on the 21st June and returning on 23rd June, in sleeper class.
+55	I would like a train from hyd to delhi on the 23rd June and reruning on 27th June.
+56	From Hyd to Delhi, costing around 5K , on the 23rd June and returning  on 9th July.
+
+# Time Preference
+57	Can you please bbok me a flight between 6 pm and 10 pm, from hyd to bangalore?
+58	Can you provide me the flight details, which star from hyd, to mumbai, leaving after 6 pm?
+59	How many Indigo flights from delhi to hyd, reaching before 10 AM?
+60	I need a train reaching hyderabad around 11 am.
+61	I need to reach Mumbai around 1 PM.
+
+# Duration
+62	Can you please provide a list of trains between delhi and kolkata, with minimum travel time?
+63	What is the best bus to take, from delhi to lucknow, with minimum night time travel and AC sleeper?
+64	Which is train with the least travel time?
+65	I need to book a flight resrvation, with minimum stop-over time.
+
+# Company
+66	I nerd a flight from mumbai to hyd, preferably Jet Airways with zero stops.
+67	I want a tatkaal reservation for the 22nd June, in Duronto Express.
+68	How many Indigo flights from hyd to bangalore, below 2.5K ?
+69	Can I get reservation from Mumbai to Dubai, on the 23rd June, Air India?
+70	I need to reach Delhi on 23rd June, preferably Indigo.
+
+71	I want to book a 2AC ticket.
+72	I want to book 2 seats and travel with 10 Kg luggage
+73	I want to travel with 10 Kg luggage with 2 booked seats.
+74	I want to book tatkaal ticket for tomorrow morning.
+#########################################################################
+75	I want to book two flight tickets with maximum of 2 stops leaving between 23rd June to 27th June and returning on 30th June from Hyderabad to Bangalore.
+76	My source is Hyderabad and my destination is Bangalore.
+77	I want to biok a Spicejet business clss flight tikket with window seat from hyderabad and to Bangalore leaving on 21st June and return on 25th June with an extra luggage of 15 kg in price range of 10 K to 15 K.

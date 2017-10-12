@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>need</word>
+            <lemma>need</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>fly</word>
+            <lemma>fly</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>13</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>14</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>Dubai</word>
+            <lemma>Dubai</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>hyd</word>
+            <lemma>hyd</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>32</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>33</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>stop</word>
+            <lemma>stop</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>at</word>
+            <lemma>at</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>mumbai</word>
+            <lemma>mumbaus</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="15">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>57</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="17">
+            <word>23</word>
+            <lemma>23</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>23.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="18">
+            <word>rd</word>
+            <lemma>rd</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>67</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="19">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>68</CharacterOffsetBegin>
+            <CharacterOffsetEnd>70</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="20">
+            <word>june</word>
+            <lemma>june</lemma>
+            <CharacterOffsetBegin>71</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-06</NormalizedNER>
+            <Speaker>PER0</Speaker>
+            <Timex tid="t1" type="DATE">XXXX-06</Timex>
+          </token>
+          <token id="21">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>75</CharacterOffsetBegin>
+            <CharacterOffsetEnd>76</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB fly) (PP (TO to) (NP (NNP Dubai))) (PP (IN from) (NP (NN hyd))) (, ,) (PP (IN with) (NP (NP (DT a) (NN stop)) (PP (IN at) (NP (NP (NNS mumbai)) (PP (IN on) (NP (NP (DT the) (CD 23) (NN rd)) (PP (IN of) (NP (NNP june))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">fly</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">need</governor>
+            <dependent idx="4">fly</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">Dubai</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">fly</governor>
+            <dependent idx="6">Dubai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">fly</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">stop</governor>
+            <dependent idx="10">with</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stop</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">fly</governor>
+            <dependent idx="12">stop</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="13">at</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="12">stop</governor>
+            <dependent idx="14">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">rd</governor>
+            <dependent idx="15">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">rd</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="18">rd</governor>
+            <dependent idx="17">23</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="18">rd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">june</governor>
+            <dependent idx="19">of</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="18">rd</governor>
+            <dependent idx="20">june</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">fly</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">need</governor>
+            <dependent idx="4">fly</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">Dubai</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="4">fly</governor>
+            <dependent idx="6">Dubai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="4">fly</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">stop</governor>
+            <dependent idx="10">with</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stop</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">fly</governor>
+            <dependent idx="12">stop</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="13">at</dependent>
+          </dep>
+          <dep type="nmod:at">
+            <governor idx="12">stop</governor>
+            <dependent idx="14">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">rd</governor>
+            <dependent idx="15">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">rd</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="18">rd</governor>
+            <dependent idx="17">23</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="18">rd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">june</governor>
+            <dependent idx="19">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="18">rd</governor>
+            <dependent idx="20">june</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="4">fly</governor>
+            <dependent idx="3">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="2">need</governor>
+            <dependent idx="4">fly</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">Dubai</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="4">fly</governor>
+            <dependent idx="6">Dubai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">hyd</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="4">fly</governor>
+            <dependent idx="8">hyd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="12">stop</governor>
+            <dependent idx="10">with</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">stop</governor>
+            <dependent idx="11">a</dependent>
+          </dep>
+          <dep type="nmod:with">
+            <governor idx="4">fly</governor>
+            <dependent idx="12">stop</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="13">at</dependent>
+          </dep>
+          <dep type="nmod:at">
+            <governor idx="12">stop</governor>
+            <dependent idx="14">mumbai</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="18">rd</governor>
+            <dependent idx="15">on</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">rd</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nummod">
+            <governor idx="18">rd</governor>
+            <dependent idx="17">23</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="14">mumbai</governor>
+            <dependent idx="18">rd</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="20">june</governor>
+            <dependent idx="19">of</dependent>
+          </dep>
+          <dep type="nmod:of">
+            <governor idx="18">rd</governor>
+            <dependent idx="20">june</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,5 @@
+transaction_type : book
+source : Hyderabad
+destination : 
+start_date	max : XXXX-06-21,mean : XXXX-06-21,min : XXXX-06-21,
+end_date	max : XXXX-06-27,mean : XXXX-06-27,min : XXXX-06-27,

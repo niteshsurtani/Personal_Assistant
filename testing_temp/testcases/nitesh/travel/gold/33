@@ -1,0 +1,7 @@
+transport_type : train
+transaction_type : book
+source : Hyderabad
+destination : Bangalore
+class : 1 ac
+amount : max : Rs 15000,mean :,min : Rs 10000,
+

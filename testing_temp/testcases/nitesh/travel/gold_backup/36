@@ -1,0 +1,5 @@
+transport_type : flight
+transaction_type : book
+weight :  max : 15kg,mean :,min : 10 kg,
+amount : max : Rs 10,000,mean :,min : ,
+

@@ -1,0 +1,20 @@
+check if word is a cityname or first word of cityname
+input --> word
+output --> cities found
+
+
+check if word is a locality or first word of localityname
+input --> word, city
+output --> localities found
+
+for each word in query:
+	if in city table:
+		check for more 1 word names
+		ner --> mark
+		city_flag = 1
+
+if city_flag == 1:
+	for each word in query:
+		check for more 1 word names
+		if in location table of city:
+			ner --> mark

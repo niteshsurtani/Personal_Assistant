@@ -1,0 +1,13 @@
+from FILE_CONSTANTS import *
+ 
+CITY_EXIST_FILE = EXTENDER_NER_DIRECTORY + "food/database/city_list"
+
+
+def existsCity(extendedNERAnalyzedParse):
+	identifiers = []
+        with open(AMOUNT_EXIST_FILE) as f:
+        	for line in f:
+	        	identifiers.append(line.rstrip())
+	     
+
+

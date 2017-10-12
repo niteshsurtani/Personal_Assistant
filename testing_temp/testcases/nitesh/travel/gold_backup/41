@@ -1,0 +1,4 @@
+transport_type : flight
+transaction_type : book
+amount : max : Rs 5,000,mean :,min : ,
+

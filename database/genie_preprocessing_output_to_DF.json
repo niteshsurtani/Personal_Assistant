@@ -1,0 +1,54 @@
+{
+  "query": "I want to biok a Spicejet business clss flight tikket with window seat from hyderabad and to Bangalore leaving on 21st June and return on 25th June with an extra luggage of 15 kg in price range of 10 K to 15 K.",
+  "category": "travel",
+  "user_id": 23,
+  "subcategory": {
+    "transaction_type":"book",
+    "transport_type":"flight"
+  },
+  "source": "HYDERABAD",
+  "destination": "Bangalore",
+  "start_date": {
+    "range": null,
+    "exact": "XXXX-06-25"
+  },
+  "end_date": {
+    "range": null,
+    "exact": "XXXX-06-25"
+  },
+  "round_trip": 1,
+  "class":"business",
+  "num_seats": 2,
+  "price_range": {
+    "range": {
+      "max": "15000.0",
+      "min": "10000.0"
+    },
+    "exact": null
+  },
+  "seat_preference": "window",
+  "num_stops": {
+    "range": null,
+    "exact": 2
+  },
+  "time_preference":{
+    "range": {
+      "max": 10,
+      "min": 6
+    },
+    "exact": null
+  },
+  "duration":{
+    "range": {
+      "max": 6,
+      "min": 2
+    },
+    "exact": null
+  },
+  "extra_luggage": {
+    "range": null,
+    "exact": 2
+  },
+  "company": "spicejet",
+  "quota": null
+}

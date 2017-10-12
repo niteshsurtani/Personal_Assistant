@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>Can</word>
+            <lemma>can</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>5</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>book</word>
+            <lemma>book</lemma>
+            <CharacterOffsetBegin>6</CharacterOffsetBegin>
+            <CharacterOffsetEnd>10</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>11</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>tatkal</word>
+            <lemma>tatkal</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>ticket</word>
+            <lemma>ticket</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>Hyderabad</word>
+            <lemma>Hyderabad</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>Bangalore</word>
+            <lemma>Bangalore</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>56</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>2AC</word>
+            <lemma>2ac</lemma>
+            <CharacterOffsetBegin>59</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>?</word>
+            <lemma>?</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>63</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (SQ (MD Can) (NP (PRP I)) (VP (VB book) (NP (NP (DT a) (JJ tatkal) (NN ticket)) (PP (IN from) (NP (NNP Hyderabad)))) (PP (TO to) (NP (NNP Bangalore))) (, ,) (PP (IN in) (NP (NN 2AC)))) (. ?))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">book</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">book</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">book</governor>
+            <dependent idx="2">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">tatkal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">book</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Hyderabad</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="6">ticket</governor>
+            <dependent idx="8">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">book</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">2AC</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="3">book</governor>
+            <dependent idx="13">2AC</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">book</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">book</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">book</governor>
+            <dependent idx="2">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">tatkal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">book</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Hyderabad</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="6">ticket</governor>
+            <dependent idx="8">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="3">book</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">2AC</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="3">book</governor>
+            <dependent idx="13">2AC</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">book</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">book</governor>
+            <dependent idx="1">Can</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">book</governor>
+            <dependent idx="2">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="4">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">tatkal</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="3">book</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="8">Hyderabad</governor>
+            <dependent idx="7">from</dependent>
+          </dep>
+          <dep type="nmod:from">
+            <governor idx="6">ticket</governor>
+            <dependent idx="8">Hyderabad</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="nmod:to">
+            <governor idx="3">book</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="13">2AC</governor>
+            <dependent idx="12">in</dependent>
+          </dep>
+          <dep type="nmod:in">
+            <governor idx="3">book</governor>
+            <dependent idx="13">2AC</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

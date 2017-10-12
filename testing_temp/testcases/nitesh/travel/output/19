@@ -1,0 +1,7 @@
+transaction : book
+round_trip : 1
+end_date	range : ,value : XXXX-06-30,
+destination : Bangalore
+source : Hyderabad
+start_date	range : {'max': u'XXXX-06-27', 'min': u'XXXX-06-23'},value : ,
+transport : flight

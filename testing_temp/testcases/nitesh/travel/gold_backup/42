@@ -1,0 +1,6 @@
+transport_type : train
+transaction_type : book
+source : Hyderabad
+destination : Bangalore
+class : 2 ac
+train_quota : 1

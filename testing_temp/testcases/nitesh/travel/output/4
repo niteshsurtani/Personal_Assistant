@@ -1,0 +1,7 @@
+source : HYDERABAD
+destination : BANGALORE
+<<<<<<< HEAD
+start_date	range : {'max': u'XXXX-07-25', 'min': u'XXXX-06-23'},value : ,
+=======
+>>>>>>> 66583c9acaa04f1cadebc8eb95809f1d331b035c
+transaction : book

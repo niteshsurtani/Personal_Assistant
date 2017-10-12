@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>need</word>
+            <lemma>need</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>reservation</word>
+            <lemma>reservation</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>e</word>
+            <lemma>e</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>SYM</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>starting</word>
+            <lemma>start</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>point</word>
+            <lemma>point</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>37</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>38</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>hy</word>
+            <lemma>hy</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>43</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>destination</word>
+            <lemma>destination</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>62</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="13">
+            <word>bangalore</word>
+            <lemma>bangalore</lemma>
+            <CharacterOffsetBegin>63</CharacterOffsetBegin>
+            <CharacterOffsetEnd>72</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="14">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>73</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP need) (NP (NP (DT a) (NN reservation)) (SBAR (S (SBAR (X (SYM e)) (S (NP (VBG starting) (NN point)) (VP (VBZ is) (NP (NN hy) (CC and) (NN destination))))) (VP (VBZ is) (NP (NN bangalore))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">reservation</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">need</governor>
+            <dependent idx="4">reservation</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">hy</governor>
+            <dependent idx="5">e</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">point</governor>
+            <dependent idx="6">starting</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">hy</governor>
+            <dependent idx="7">point</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="9">hy</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="9">hy</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="9">hy</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="9">hy</governor>
+            <dependent idx="11">destination</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">reservation</governor>
+            <dependent idx="13">bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">reservation</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">need</governor>
+            <dependent idx="4">reservation</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">hy</governor>
+            <dependent idx="5">e</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">point</governor>
+            <dependent idx="6">starting</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">hy</governor>
+            <dependent idx="7">point</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="9">hy</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="9">hy</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="9">hy</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="9">hy</governor>
+            <dependent idx="11">destination</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">reservation</governor>
+            <dependent idx="13">bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">need</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">need</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="4">reservation</governor>
+            <dependent idx="3">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">need</governor>
+            <dependent idx="4">reservation</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="9">hy</governor>
+            <dependent idx="5">e</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">point</governor>
+            <dependent idx="6">starting</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="9">hy</governor>
+            <dependent idx="7">point</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="9">hy</governor>
+            <dependent idx="8">is</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="9">hy</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="9">hy</governor>
+            <dependent idx="10">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="9">hy</governor>
+            <dependent idx="11">destination</dependent>
+          </dep>
+          <dep type="csubj" extra="true">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="11">destination</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="13">bangalore</governor>
+            <dependent idx="12">is</dependent>
+          </dep>
+          <dep type="acl:relcl">
+            <governor idx="4">reservation</governor>
+            <dependent idx="13">bangalore</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

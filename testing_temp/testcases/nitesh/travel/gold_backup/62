@@ -1,0 +1,4 @@
+transport_type : train
+transaction_type : book
+source : Delhi
+destination : Kolkata

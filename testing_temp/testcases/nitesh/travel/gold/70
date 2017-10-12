@@ -1,0 +1,6 @@
+transport_type : flight
+transaction_type : book
+destination : Delhi
+start_date	max : XXXX-06-23,mean : XXXX-06-23,min : XXXX-06-23,
+company : Indigo
+

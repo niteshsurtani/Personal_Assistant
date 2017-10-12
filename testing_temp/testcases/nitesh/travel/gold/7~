@@ -1,0 +1,5 @@
+transport_type : train
+transaction_type : book
+source : Mumbai
+destination : Delhi
+person : 1

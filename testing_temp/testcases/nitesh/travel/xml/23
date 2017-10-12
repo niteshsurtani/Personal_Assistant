@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>be</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>leaving</word>
+            <lemma>leave</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>23rd</word>
+            <lemma>23rd</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORDINAL</NER>
+            <NormalizedNER>23.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>29</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>returning</word>
+            <lemma>return</lemma>
+            <CharacterOffsetBegin>30</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>back</word>
+            <lemma>back</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>45</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>2nd</word>
+            <lemma>2nd</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>ORDINAL</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>52</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB be) (VP (VP (VBG leaving) (PP (IN on) (NP (JJ 23rd)))) (CC and) (VP (VBG returning) (ADVP (RB back)) (PP (IN on) (NP (JJ 2nd))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">leaving</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">leaving</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="3">be</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">23rd</governor>
+            <dependent idx="5">on</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="4">leaving</governor>
+            <dependent idx="6">23rd</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">leaving</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="4">leaving</governor>
+            <dependent idx="8">returning</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">returning</governor>
+            <dependent idx="9">back</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2nd</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="nmod">
+            <governor idx="8">returning</governor>
+            <dependent idx="11">2nd</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">leaving</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">leaving</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="3">be</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">23rd</governor>
+            <dependent idx="5">on</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="4">leaving</governor>
+            <dependent idx="6">23rd</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">leaving</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">leaving</governor>
+            <dependent idx="8">returning</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">returning</governor>
+            <dependent idx="9">back</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2nd</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="8">returning</governor>
+            <dependent idx="11">2nd</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">leaving</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">leaving</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="nsubj" extra="true">
+            <governor idx="8">returning</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="4">leaving</governor>
+            <dependent idx="3">be</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="6">23rd</governor>
+            <dependent idx="5">on</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="4">leaving</governor>
+            <dependent idx="6">23rd</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="4">leaving</governor>
+            <dependent idx="7">and</dependent>
+          </dep>
+          <dep type="conj:and">
+            <governor idx="4">leaving</governor>
+            <dependent idx="8">returning</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="8">returning</governor>
+            <dependent idx="9">back</dependent>
+          </dep>
+          <dep type="case">
+            <governor idx="11">2nd</governor>
+            <dependent idx="10">on</dependent>
+          </dep>
+          <dep type="nmod:on">
+            <governor idx="8">returning</governor>
+            <dependent idx="11">2nd</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

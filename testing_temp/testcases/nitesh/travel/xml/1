@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="2">
+            <word>Wt</word>
+            <lemma>wt</lemma>
+            <CharacterOffsetBegin>2</CharacterOffsetBegin>
+            <CharacterOffsetEnd>4</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="3">
+            <word>ch</word>
+            <lemma>ch</lemma>
+            <CharacterOffsetBegin>5</CharacterOffsetBegin>
+            <CharacterOffsetEnd>7</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="4">
+            <word>book</word>
+            <lemma>book</lemma>
+            <CharacterOffsetBegin>8</CharacterOffsetBegin>
+            <CharacterOffsetEnd>12</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="5">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>13</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="6">
+            <word>ticket</word>
+            <lemma>ticket</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>21</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="7">
+            <word>FEM</word>
+            <lemma>FEM</lemma>
+            <CharacterOffsetBegin>22</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="8">
+            <word>HYDERABAD</word>
+            <lemma>HYDERABAD</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>35</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="9">
+            <word>OT</word>
+            <lemma>OT</lemma>
+            <CharacterOffsetBegin>36</CharacterOffsetBegin>
+            <CharacterOffsetEnd>38</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="10">
+            <word>Bangalore</word>
+            <lemma>Bangalore</lemma>
+            <CharacterOffsetBegin>39</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+          <token id="11">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+            <Speaker>PER0</Speaker>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBD Wt) (NP (NN ch) (NN book)) (NP-TMP (NP (DT a) (NN ticket)) (NP (NNP FEM) (NNP HYDERABAD) (NNP OT) (NNP Bangalore)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Wt</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="4">book</governor>
+            <dependent idx="3">ch</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">Wt</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="7">FEM</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="8">HYDERABAD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">OT</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">ticket</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Wt</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="4">book</governor>
+            <dependent idx="3">ch</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">Wt</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="7">FEM</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="8">HYDERABAD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">OT</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">ticket</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">Wt</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="4">book</governor>
+            <dependent idx="3">ch</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">Wt</governor>
+            <dependent idx="4">book</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">ticket</governor>
+            <dependent idx="5">a</dependent>
+          </dep>
+          <dep type="nmod:tmod">
+            <governor idx="2">Wt</governor>
+            <dependent idx="6">ticket</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="7">FEM</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="8">HYDERABAD</dependent>
+          </dep>
+          <dep type="compound">
+            <governor idx="10">Bangalore</governor>
+            <dependent idx="9">OT</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="6">ticket</governor>
+            <dependent idx="10">Bangalore</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

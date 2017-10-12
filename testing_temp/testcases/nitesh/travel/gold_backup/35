@@ -1,0 +1,4 @@
+transport_type : bus
+transaction_type : book
+num_seats : 3.0
+class : 

@@ -1,0 +1,8 @@
+round_trip : 1
+weight : 15.0
+end_date	max : XXXX-06-25,mean : XXXX-06-25,min : XXXX-06-25,
+destination : Bangalore
+seat : window
+source : HYDERABAD
+amount	max : 15000.0,mean : 10000.0,min : 10000.0,
+start_date	max : XXXX-06-21,mean : XXXX-06-21,min : XXXX-06-21,

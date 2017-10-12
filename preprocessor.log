@@ -1,0 +1,1824 @@
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 3ce44eb51c08766dd7096067c26303a494f8f90e
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+<<<<<<< HEAD
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+=======
+=======
+>>>>>>> 43b0dd0e57a813ffb501c787f94136971f12a1b6
+<<<<<<< HEAD
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+=======
+>>>>>>> 3ce44eb51c08766dd7096067c26303a494f8f90e
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 2 volume terms,1 weight terms,2 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+>>>>>>> e254812e2b568e542d4fb7c4085c97b0d99b95fa
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+<<<<<<< HEAD
+INFO:root:Food items found. Extracting attributes.
+=======
+>>>>>>> e254812e2b568e542d4fb7c4085c97b0d99b95fa
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+<<<<<<< HEAD
+=======
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+>>>>>>> e254812e2b568e542d4fb7c4085c97b0d99b95fa
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+<<<<<<< HEAD
+=======
+INFO:root:logging started
+INFO:root:logging started
+>>>>>>> e254812e2b568e542d4fb7c4085c97b0d99b95fa
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:logging started
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 1 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 1 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Multiple cities found. Searching for locality in all matched cities.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:logging started
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 1 volume terms,0 weight terms,1 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Food items found. Extracting attributes.
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:extracting cuisine information
+INFO:root:No cuisine info found!
+INFO:root:cuisine info done
+INFO:root:Finding volume, weight and size terms
+INFO:root:found 0 volume terms,0 weight terms,0 size terms
+INFO:root:extracting Amount information
+INFO:root:amount info done.
+INFO:root:extracting order time
+INFO:root:extracting delivery time
+INFO:root:extracting food items and their attributes
+INFO:root:Finding preferences.
+INFO:root:Identifying meal type.
+INFO:root:Identifying payment mode.
+INFO:root:Extracting location info.
+INFO:root:Searching for restaurant.
+INFO:root:NER extraction done.
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session ends--------------------------------------------------
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type
+INFO:root:--------------------------------------------------logging for session started--------------------------------------------------
+INFO:root:Extracting transation items
+INFO:root:Extracting Transport Items
+INFO:root:Extracting class
+INFO:root:Extracting cities
+INFO:root:Extracting Organiztions
+INFO:root:Extracting weight terms
+INFO:root:Extracting amount terms
+INFO:root:Extracting train quota
+INFO:root:Extracting seat preference
+INFO:root:Extracting number of seats
+INFO:root:Extracting number of stops
+INFO:root:Extracting travel type

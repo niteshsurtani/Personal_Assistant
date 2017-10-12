@@ -1,0 +1,5 @@
+*.pyc
+logs/
+preprocessing_tools/corenlp/corenlp_input
+preprocessing_tools/corenlp/corenlp_input.xml
+preprocessing_tools/corenlp/recognised_time

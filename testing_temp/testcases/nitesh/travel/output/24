@@ -1,0 +1,5 @@
+source : Hyderabad
+destination : Bangalore
+start_date	range : ,value : THIS XXXX-WXX-6,
+transport : flight
+transaction : book
